@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/navigation_home"
-        android:icon="@drawable/ic_home_24"
-        android:title="@string/title_home"/>
-
-    <item
-        android:id="@+id/navigation_search"
+        android:id="@+id/search"
         android:icon="@drawable/ic_search_24"
-        android:title="@string/title_search"/>
-
-    <item
-        android:id="@+id/navigation_settings"
-        android:icon="@drawable/ic_settings_24"
-        android:title="@string/title_settings"/>
+        android:title="Search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.SearchView"/>
 </menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin16">16dp</dimen>
+    <dimen name="margin8">8dp</dimen>
+    <dimen name="margin18">18dp</dimen>
+    <dimen name="margin120">120dp</dimen>
+    <dimen name="margin50">50dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="margin15">15dp</dimen>
+    <dimen name="margin40">40dp</dimen>
+    <dimen name="margin20">20dp</dimen>
+    <dimen name="radius16">16dp</dimen>
+    <dimen name="margin36">36dp</dimen>
+    <dimen name="app_bar_height">360dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>
